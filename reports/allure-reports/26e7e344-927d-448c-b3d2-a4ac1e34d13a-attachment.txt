@@ -1,0 +1,7 @@
+
+Assertion error occurred.
+assert 'a' == 'b'
+  - a
+  + b
+I am gonna execute every time
+Success
