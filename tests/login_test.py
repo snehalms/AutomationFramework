@@ -25,7 +25,7 @@ class TestLogin:
             Home.click_logout()
             a = driver.title
             print(a)
-            assert 'a'== 'b'
+            assert 'a'== 'c'
 
         except AssertionError as error:
             print("Assertion error occurred.")
